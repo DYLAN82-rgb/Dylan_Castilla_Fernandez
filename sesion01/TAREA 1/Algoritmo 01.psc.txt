@@ -1,0 +1,65 @@
+
+
+
+
+FUNDAMENTOS DE PROGRAMACION
+
+PRIMER TRABAJO
+
+
+
+TEMA: ALGORTIMOS BASICOS
+
+SECCION: D
+
+INTEGRANTE:
+Dylan Castilla Fernández
+
+
+Profesor:
+Ing. Iván Petrlik Azabache
+
+
+
+
+
+
+
+
+
+
+Lima-Perú
+2020
+
+
+
+
+
+
+
+Ejercicios
+
+1)Desarrollar un algoritmo que me permita calcular el producto de dos números enteros.
+
+Solución
+
+Algoritmo Algoritmo01
+	definir a, b, producto Como Entero
+	Escribir "Ingrese primer Número"
+	Leer a
+	Escribir "Ingrese segundo Numero"
+	Leer b
+	producto<- a*b
+	Escribir "El producto es: ",producto
+FinAlgoritmo
+
+
+Ejecución
+
+*** Ejecución Iniciada. ***
+Ingrese primer Numero
+> 12
+Ingrese segundo Numero
+> 12
+El producto es: 144
+*** Ejecución Finalizada. ***
